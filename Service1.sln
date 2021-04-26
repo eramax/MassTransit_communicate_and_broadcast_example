@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service1", "Service1\Service1.csproj", "{6CDBA9A8-DFA0-4B78-96E0-07B6D453D5AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service2", "Service2\Service2.csproj", "{58EDF5C2-E4CD-4EE7-98BD-7F4A1093C77B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{EA4F4D35-934B-4464-973B-266521CE69A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CDBA9A8-DFA0-4B78-96E0-07B6D453D5AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDBA9A8-DFA0-4B78-96E0-07B6D453D5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDBA9A8-DFA0-4B78-96E0-07B6D453D5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDBA9A8-DFA0-4B78-96E0-07B6D453D5AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58EDF5C2-E4CD-4EE7-98BD-7F4A1093C77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58EDF5C2-E4CD-4EE7-98BD-7F4A1093C77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58EDF5C2-E4CD-4EE7-98BD-7F4A1093C77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58EDF5C2-E4CD-4EE7-98BD-7F4A1093C77B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA4F4D35-934B-4464-973B-266521CE69A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4F4D35-934B-4464-973B-266521CE69A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4F4D35-934B-4464-973B-266521CE69A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4F4D35-934B-4464-973B-266521CE69A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E709869D-43CA-40C7-A329-B4E3A3828C81}
+	EndGlobalSection
+EndGlobal
